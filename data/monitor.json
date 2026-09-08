@@ -1,0 +1,2885 @@
+{
+  "snapshot": {
+    "checkedAt": "2026-09-08T05:11:21.293Z",
+    "sourceUpdatedAt": "2026-09-07T11:32:23.956Z",
+    "buildings": [
+      {
+        "id": "logan",
+        "address": "444 Logan Avenue",
+        "name": "Ray McCleary Towers",
+        "service": "Independent living",
+        "providerUnits": 167,
+        "source": "https://www.woodgreen.org/programs/444-logan",
+        "matchAddress": "444 LOGAN AVE",
+        "image": "https://www.woodgreen.org/wp-content/uploads/2021/11/444-Logan-Edited-.png",
+        "rsn": "4288768",
+        "cityAddress": "444  LOGAN AVE ",
+        "units": 159,
+        "storeys": 22,
+        "management": "WOODGREEN COMMUNITY HOUSING INC",
+        "ward": "Toronto-Danforth",
+        "score": 86,
+        "proactive": 87,
+        "reactive": -1,
+        "evaluated": "2024-06-10",
+        "lat": 43.665354191,
+        "lng": -79.344850167,
+        "history": [
+          {
+            "date": "2024-06-10",
+            "score": 86
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 3
+          },
+          {
+            "name": "FENCING",
+            "rating": 3
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 3
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 2
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 3
+          },
+          {
+            "name": "BALCONY GUARDS",
+            "rating": 3
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 2
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 2
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 2
+          },
+          {
+            "name": "INT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 3
+          },
+          {
+            "name": "STORAGE AREAS/LOCKERS MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "OTHER AMENITIES",
+            "rating": 3
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 2
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "GARBAGE/COMPACTOR ROOM",
+            "rating": 2
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 2
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 2
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 2
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "CHUTE ROOMS - MAINTENANCE",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 2
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": [
+          {
+            "id": "26 150485 PRS 00 IV",
+            "type": "Order to Comply",
+            "bylaw": "Property Standards",
+            "opened": "2026-04-27",
+            "deficiencies": 1,
+            "primary": true
+          }
+        ]
+      },
+      {
+        "id": "queen1070",
+        "address": "1070 Queen Street East",
+        "name": "Jack Layton Seniors Housing",
+        "service": "Assisted living",
+        "providerUnits": 175,
+        "source": "https://www.woodgreen.org/programs/1070-queen-street-east",
+        "matchAddress": "1070 QUEEN ST E",
+        "scopeNote": "WoodGreen lists 175 independent units plus separate cluster housing. City registration covers the building.",
+        "image": "https://www.woodgreen.org/wp-content/uploads/2021/11/1070-Queen-StreetEast-BuildingExteror-Edited.png",
+        "rsn": "4153633",
+        "cityAddress": "1070  QUEEN ST E",
+        "units": 177,
+        "storeys": 5,
+        "management": "WOODGREEN COMMUNITY HOUSING INC.",
+        "ward": "Toronto-Danforth",
+        "score": 91,
+        "proactive": 91,
+        "reactive": 0,
+        "evaluated": "2025-10-06",
+        "lat": 43.662057505,
+        "lng": -79.336781488,
+        "history": [
+          {
+            "date": "2025-10-06",
+            "score": 91
+          },
+          {
+            "date": "2023-06-23",
+            "score": 94
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 3
+          },
+          {
+            "name": "FENCING",
+            "rating": 3
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 3
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 3
+          },
+          {
+            "name": "BALCONY GUARDS",
+            "rating": 3
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 2
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 2
+          },
+          {
+            "name": "STORAGE AREAS/LOCKERS MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 3
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "GARBAGE/COMPACTOR ROOM",
+            "rating": 1
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 2
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 1
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 2
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "CHUTE ROOMS - MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "laxton",
+        "address": "2 Laxton Avenue",
+        "name": "Laxton Avenue",
+        "service": "Independent living",
+        "providerUnits": 52,
+        "source": "https://www.woodgreen.org/services/independent-living",
+        "matchAddress": "2 LAXTON AVE",
+        "rsn": "5735857",
+        "cityAddress": "2  LAXTON AVE ",
+        "units": 52,
+        "storeys": 4,
+        "management": "WOODGREEN COMMUNITY HOUSING INC. ",
+        "ward": "Parkdale-High Park",
+        "score": 77,
+        "proactive": 80,
+        "reactive": -3,
+        "evaluated": "2025-12-02",
+        "lat": 43.639730585,
+        "lng": -79.4378417283,
+        "history": [
+          {
+            "date": "2025-12-02",
+            "score": 77
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 2
+          },
+          {
+            "name": "FENCING",
+            "rating": 1
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 1
+          },
+          {
+            "name": "BALCONY GUARDS",
+            "rating": 3
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 1
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 1
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 3
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 1
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 2
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 1
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 1
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 1
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 1
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": [
+          {
+            "id": "26 205324 PRS 00 IV",
+            "type": "Order to Comply",
+            "bylaw": "Property Standards",
+            "opened": "2026-07-20",
+            "deficiencies": 3,
+            "primary": true
+          },
+          {
+            "id": "26 207850 PRS 00 IV",
+            "type": "Order to Comply",
+            "bylaw": "Property Standards",
+            "opened": "2026-07-23",
+            "deficiencies": 6,
+            "primary": true
+          },
+          {
+            "id": "26 208089 PRS 00 IV",
+            "type": "Order to Comply",
+            "bylaw": "Property Standards",
+            "opened": "2026-07-24",
+            "deficiencies": 6,
+            "primary": true
+          }
+        ]
+      },
+      {
+        "id": "jameson",
+        "address": "182 Jameson Avenue",
+        "name": "Jameson Avenue",
+        "service": "Independent living",
+        "providerUnits": 82,
+        "source": "https://www.woodgreen.org/programs/182-jameson",
+        "matchAddress": "182 JAMESON AVE",
+        "rsn": "4153025",
+        "cityAddress": "182  JAMESON AVE ",
+        "units": 82,
+        "storeys": 11,
+        "management": "WOODGREEN COMMUNITY HOUSING INC.",
+        "ward": "Parkdale-High Park",
+        "score": 85,
+        "proactive": 85,
+        "reactive": 0,
+        "evaluated": "2025-11-25",
+        "lat": 43.6389025378,
+        "lng": -79.4370268337,
+        "history": [
+          {
+            "date": "2025-11-25",
+            "score": 85
+          },
+          {
+            "date": "2023-09-20",
+            "score": 72
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 2
+          },
+          {
+            "name": "FENCING",
+            "rating": 3
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 3
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 2
+          },
+          {
+            "name": "BALCONY GUARDS",
+            "rating": 2
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 2
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 1
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 2
+          },
+          {
+            "name": "STORAGE AREAS/LOCKERS MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 3
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 3
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 1
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 1
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 1
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 1
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 1
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 1
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "pape",
+        "address": "55 Pape Avenue",
+        "name": "Pape Avenue",
+        "service": "Independent living",
+        "providerUnits": 63,
+        "source": "https://www.woodgreen.org/programs/55-pape-avenue",
+        "matchAddress": "55 PAPE AVE",
+        "rsn": "4288772",
+        "cityAddress": "55  PAPE AVE ",
+        "units": 60,
+        "storeys": 5,
+        "management": "WOODGREEN COMMUNITY HOUSING INC.",
+        "ward": "Toronto-Danforth",
+        "score": 88,
+        "proactive": 88,
+        "reactive": 0,
+        "evaluated": "2024-08-22",
+        "lat": 43.660465246,
+        "lng": -79.337007314,
+        "history": [
+          {
+            "date": "2024-08-22",
+            "score": 88
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 3
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 3
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 2
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 2
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 1
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "INT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 3
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 2
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "GARBAGE/COMPACTOR ROOM",
+            "rating": 2
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 2
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "CHUTE ROOMS - MAINTENANCE",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 2
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 1
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "renwick",
+        "address": "17 Renwick Crescent",
+        "name": "Renwick Crescent",
+        "service": "Independent living",
+        "providerUnits": 80,
+        "source": "https://www.woodgreen.org/services/independent-living",
+        "matchAddress": "17 RENWICK CRES",
+        "scopeNote": "WoodGreen describes a mix of apartments and townhouses.",
+        "rsn": "4156036",
+        "cityAddress": "17  RENWICK CRES ",
+        "units": 80,
+        "storeys": 4,
+        "management": "WOODGREEN COMMUNITY HOUSING INC.",
+        "ward": "Toronto-Danforth",
+        "score": 92,
+        "proactive": 92,
+        "reactive": 0,
+        "evaluated": "2025-10-06",
+        "lat": 43.66049693,
+        "lng": -79.336536519,
+        "history": [
+          {
+            "date": "2025-10-06",
+            "score": 92
+          },
+          {
+            "date": "2023-09-22",
+            "score": 90
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 3
+          },
+          {
+            "name": "FENCING",
+            "rating": 3
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 3
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 2
+          },
+          {
+            "name": "BALCONY GUARDS",
+            "rating": 3
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 2
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "INT. RECEPTACLE STORAGE AREA",
+            "rating": 3
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 2
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 2
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "GARBAGE/COMPACTOR ROOM",
+            "rating": 1
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 3
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 2
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "CHUTE ROOMS - MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 2
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "heather",
+        "address": "1119 Gerrard Street East",
+        "name": "Heather Terraces",
+        "service": "Independent living",
+        "providerUnits": 29,
+        "source": "https://www.woodgreen.org/services/independent-living",
+        "matchAddress": "1119 GERRARD ST E",
+        "rsn": "4153644",
+        "cityAddress": "1119  GERRARD ST E",
+        "units": 29,
+        "storeys": 5,
+        "management": "WOODGREEN COMMUNITY HOUSING INC.",
+        "ward": "Toronto-Danforth",
+        "score": 93,
+        "proactive": 93,
+        "reactive": 0,
+        "evaluated": "2026-08-31",
+        "lat": 43.669541987,
+        "lng": -79.333190936,
+        "history": [
+          {
+            "date": "2026-08-31",
+            "score": 93
+          },
+          {
+            "date": "2024-09-11",
+            "score": 93
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 2
+          },
+          {
+            "name": "FENCING",
+            "rating": 3
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 3
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 2
+          },
+          {
+            "name": "BALCONY GUARDS",
+            "rating": 3
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 2
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "INT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 3
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 3
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "GARBAGE/COMPACTOR ROOM",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 3
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 2
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 2
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "CHUTE ROOMS - MAINTENANCE",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 2
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 2
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "sears",
+        "address": "137 Sears Street",
+        "name": "Sears Street",
+        "service": "Independent living",
+        "providerUnits": 17,
+        "source": "https://www.woodgreen.org/services/independent-living",
+        "matchAddress": "137 SEARS ST",
+        "rsn": "4153621",
+        "cityAddress": "137  SEARS ST ",
+        "units": 17,
+        "storeys": 3,
+        "management": "WOODGREEN COMMUNITY HOUSING INC.",
+        "ward": "Toronto-Danforth",
+        "score": 90,
+        "proactive": 90,
+        "reactive": 0,
+        "evaluated": "2025-11-18",
+        "lat": 43.663039249,
+        "lng": -79.32501186,
+        "history": [
+          {
+            "date": "2025-11-18",
+            "score": 90
+          },
+          {
+            "date": "2023-09-13",
+            "score": 83
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 2
+          },
+          {
+            "name": "FENCING",
+            "rating": 2
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 3
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 3
+          },
+          {
+            "name": "BALCONY GUARDS",
+            "rating": 3
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 1
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 2
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 2
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 2
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "eastern",
+        "address": "802 Eastern Avenue",
+        "name": "Eastern Avenue",
+        "service": "Independent living",
+        "providerUnits": 16,
+        "source": "https://www.woodgreen.org/services/independent-living",
+        "matchAddress": "802 EASTERN AVE",
+        "rsn": "4153624",
+        "cityAddress": "802  EASTERN AVE ",
+        "units": 16,
+        "storeys": 3,
+        "management": "WOODGREEN COMMUNITY HOUSING INC.",
+        "ward": "Toronto-Danforth",
+        "score": 94,
+        "proactive": 95,
+        "reactive": -1,
+        "evaluated": "2026-08-12",
+        "lat": 43.6616379459,
+        "lng": -79.3298622257,
+        "history": [
+          {
+            "date": "2026-08-12",
+            "score": 94
+          },
+          {
+            "date": "2024-07-18",
+            "score": 92
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 2
+          },
+          {
+            "name": "FENCING",
+            "rating": 2
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 2
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 3
+          },
+          {
+            "name": "BALCONY GUARDS",
+            "rating": 3
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 3
+          },
+          {
+            "name": "STORAGE AREAS/LOCKERS MAINT.",
+            "rating": 2
+          },
+          {
+            "name": "OTHER AMENITIES",
+            "rating": 3
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 3
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 3
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 1
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": [
+          {
+            "id": "26 190086 PRS 00 IV",
+            "type": "Order to Comply",
+            "bylaw": "Property Standards",
+            "opened": "2026-06-23",
+            "deficiencies": 4,
+            "primary": true
+          }
+        ]
+      },
+      {
+        "id": "coxwell570",
+        "address": "570 Coxwell Avenue",
+        "name": "Coxwell Avenue",
+        "service": "Independent living",
+        "providerUnits": 11,
+        "source": "https://www.woodgreen.org/services/independent-living",
+        "matchAddress": "570 COXWELL AVE",
+        "rsn": "4153657",
+        "cityAddress": "570  COXWELL AVE ",
+        "units": 11,
+        "storeys": 3,
+        "management": "WOODGREEN COMMUNITY HOUSING INC.",
+        "ward": "Toronto-Danforth",
+        "score": 92,
+        "proactive": 92,
+        "reactive": 0,
+        "evaluated": "2025-10-07",
+        "lat": 43.679923962,
+        "lng": -79.32249284,
+        "history": [
+          {
+            "date": "2025-10-07",
+            "score": 92
+          },
+          {
+            "date": "2023-08-16",
+            "score": 99
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 3
+          },
+          {
+            "name": "FENCING",
+            "rating": 3
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 2
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "INT. RECEPTACLE STORAGE AREA",
+            "rating": 3
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 2
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 3
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 2
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "hilda2339",
+        "address": "2339 Dufferin Street",
+        "name": "St. Hilda's Seniors Community",
+        "service": "Independent living",
+        "providerUnits": null,
+        "source": "https://www.woodgreen.org/programs/2339-dufferin-st-hildas",
+        "matchAddress": "2339 DUFFERIN ST",
+        "rsn": "5832259",
+        "cityAddress": "2339  DUFFERIN ST ",
+        "units": 120,
+        "storeys": 14,
+        "management": "WOODGREEN COMMUNITY SERVICES",
+        "ward": "12",
+        "score": null,
+        "proactive": null,
+        "reactive": null,
+        "evaluated": null,
+        "lat": null,
+        "lng": null,
+        "history": [],
+        "categories": [],
+        "orders": []
+      },
+      {
+        "id": "hilda2353",
+        "address": "2353 Dufferin Street",
+        "name": "Lewis Garnsworthy Residence",
+        "service": "Independent living",
+        "providerUnits": null,
+        "source": "https://www.woodgreen.org/programs/2353-dufferin-st-hildas",
+        "matchAddress": "2353 DUFFERIN ST",
+        "rsn": "4155026",
+        "cityAddress": "2353  DUFFERIN ST ",
+        "units": 144,
+        "storeys": 16,
+        "management": "LEWIS GARNSWORTHY RESIDENCE",
+        "ward": "Toronto-St. Paul's",
+        "score": 75,
+        "proactive": 75,
+        "reactive": 0,
+        "evaluated": "2024-09-11",
+        "lat": 43.695187655,
+        "lng": -79.449610638,
+        "history": [
+          {
+            "date": "2024-09-11",
+            "score": 75
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 3
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 1
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 1
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 2
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 3
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 2
+          },
+          {
+            "name": "INT. RECEPTACLE STORAGE AREA",
+            "rating": 1
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 2
+          },
+          {
+            "name": "STORAGE AREAS/LOCKERS MAINT.",
+            "rating": 1
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 1
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "GARBAGE/COMPACTOR ROOM",
+            "rating": 1
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 2
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 1
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "CHUTE ROOMS - MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 1
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 1
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 1
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 2
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 1
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 1
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 2
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "vaughan",
+        "address": "800 Vaughan Road",
+        "name": "Homes for Good",
+        "service": "Supportive housing",
+        "providerUnits": 78,
+        "source": "https://www.woodgreen.org/programs/homes-for-good",
+        "matchAddress": "800 VAUGHAN RD",
+        "scopeNote": "WoodGreen lists 78 program units. The City record may cover a larger building; these are different scopes.",
+        "rsn": "5371451",
+        "cityAddress": "800  VAUGHAN RD ",
+        "units": 210,
+        "storeys": 16,
+        "management": "WOODGREEN COMMUNITY SERVICE",
+        "ward": "Toronto-St. Paul's",
+        "score": 92,
+        "proactive": 92,
+        "reactive": 0,
+        "evaluated": "2026-08-04",
+        "lat": 43.694997529,
+        "lng": -79.448931215,
+        "history": [
+          {
+            "date": "2026-08-04",
+            "score": 92
+          },
+          {
+            "date": "2024-09-21",
+            "score": 79
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 2
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 2
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 3
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 2
+          },
+          {
+            "name": "OTHER AMENITIES",
+            "rating": 3
+          },
+          {
+            "name": "PARKING AREAS",
+            "rating": 3
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 3
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 3
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "CHUTE ROOMS - MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 1
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 3
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 3
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 3
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 3
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "queen1080",
+        "address": "1080 Queen Street East",
+        "name": "Seniors Cluster Care",
+        "service": "Assisted living",
+        "providerUnits": 9,
+        "source": "https://www.woodgreen.org/services/assisted-living",
+        "matchAddress": "1080 QUEEN ST E",
+        "scopeNote": "Nine program units. No assumption of RentSafeTO registration or exemption.",
+        "rsn": null,
+        "cityAddress": null,
+        "units": null,
+        "storeys": null,
+        "management": null,
+        "ward": null,
+        "score": null,
+        "proactive": null,
+        "reactive": null,
+        "evaluated": null,
+        "lat": null,
+        "lng": null,
+        "history": [],
+        "categories": [],
+        "orders": null
+      },
+      {
+        "id": "wellesley",
+        "address": "490 Sherbourne Street",
+        "name": "Wellesley Central Residences",
+        "service": "Assisted living",
+        "providerUnits": 112,
+        "source": "https://www.woodgreen.org/services/assisted-living",
+        "matchAddress": "490 SHERBOURNE ST",
+        "scopeNote": "Partnered operation with Fife House. Building-wide records are not attributed exclusively to WoodGreen.",
+        "rsn": "4155931",
+        "cityAddress": "490  SHERBOURNE ST ",
+        "units": 112,
+        "storeys": 11,
+        "management": "WOODGREEN COMMUNITY HOUSING INC",
+        "ward": "Toronto Centre",
+        "score": 79,
+        "proactive": 79,
+        "reactive": 0,
+        "evaluated": "2024-08-26",
+        "lat": 43.66759196,
+        "lng": -79.375398711,
+        "history": [
+          {
+            "date": "2024-08-26",
+            "score": 79
+          }
+        ],
+        "categories": [
+          {
+            "name": "NUMBERING OF PROPERTY",
+            "rating": 2
+          },
+          {
+            "name": "EXTERIOR GROUNDS",
+            "rating": 1
+          },
+          {
+            "name": "FENCING",
+            "rating": 3
+          },
+          {
+            "name": "RETAINING WALLS",
+            "rating": 2
+          },
+          {
+            "name": "CATCH BASINS / STORM DRAINAGE",
+            "rating": 2
+          },
+          {
+            "name": "BUILDING EXTERIOR",
+            "rating": 3
+          },
+          {
+            "name": "WINDOWS",
+            "rating": 3
+          },
+          {
+            "name": "EXT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "EXTERIOR WALKWAYS",
+            "rating": 2
+          },
+          {
+            "name": "INTERCOM",
+            "rating": 3
+          },
+          {
+            "name": "EMERGENCY CONTACT SIGN",
+            "rating": 1
+          },
+          {
+            "name": "LOBBY - WALLS AND CEILING",
+            "rating": 2
+          },
+          {
+            "name": "LOBBY FLOORS",
+            "rating": 3
+          },
+          {
+            "name": "LAUNDRY ROOM",
+            "rating": 2
+          },
+          {
+            "name": "INT. RECEPTACLE STORAGE AREA",
+            "rating": 2
+          },
+          {
+            "name": "MAIL RECEPTACLES",
+            "rating": 3
+          },
+          {
+            "name": "EXTERIOR DOORS",
+            "rating": 3
+          },
+          {
+            "name": "STORAGE AREAS/LOCKERS MAINT.",
+            "rating": 2
+          },
+          {
+            "name": "OTHER AMENITIES",
+            "rating": 2
+          },
+          {
+            "name": "ABANDONED EQUIP./DERELICT VEH.",
+            "rating": 3
+          },
+          {
+            "name": "GARBAGE/COMPACTOR ROOM",
+            "rating": 1
+          },
+          {
+            "name": "ELEVATOR MAINTENANCE",
+            "rating": 3
+          },
+          {
+            "name": "ELEVATOR COSMETICS",
+            "rating": 2
+          },
+          {
+            "name": "INT. HALLWAY - WALLS / CEILING",
+            "rating": 2
+          },
+          {
+            "name": "INTERIOR HALLWAY FLOORS",
+            "rating": 2
+          },
+          {
+            "name": "INT. LOBBY / HALLWAY LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA VENTILATION",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SERVICES / OUTLETS",
+            "rating": 3
+          },
+          {
+            "name": "CHUTE ROOMS - MAINTENANCE",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL - WALLS AND CEILING",
+            "rating": 3
+          },
+          {
+            "name": "STAIRWELL - LANDING AND STEPS",
+            "rating": 2
+          },
+          {
+            "name": "STAIRWELL LIGHTING",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - SAFETY",
+            "rating": 3
+          },
+          {
+            "name": "INT. HANDRAIL / GUARD - MAINT.",
+            "rating": 3
+          },
+          {
+            "name": "GRAFFITI",
+            "rating": 1
+          },
+          {
+            "name": "BUILDING CLEANLINESS",
+            "rating": 3
+          },
+          {
+            "name": "COMMON AREA PESTS",
+            "rating": 3
+          },
+          {
+            "name": "TENANT NOTIFICATION BOARD",
+            "rating": 1
+          },
+          {
+            "name": "PEST CONTROL LOG",
+            "rating": 3
+          },
+          {
+            "name": "MAINTENANCE LOG",
+            "rating": 3
+          },
+          {
+            "name": "CLEANING LOG",
+            "rating": 1
+          },
+          {
+            "name": "VITAL SERVICE PLAN",
+            "rating": 3
+          },
+          {
+            "name": "ELECTRICAL SAFETY PLAN",
+            "rating": 1
+          },
+          {
+            "name": "STATE OF GOOD REPAIR PLAN",
+            "rating": 3
+          },
+          {
+            "name": "TENANT SERVICE REQUEST LOG",
+            "rating": 3
+          }
+        ],
+        "orders": []
+      },
+      {
+        "id": "cedarvale",
+        "address": "540 Cedarvale Avenue",
+        "name": "Cedarvale Supportive Housing",
+        "service": "Supportive housing",
+        "providerUnits": 59,
+        "source": "https://www.woodgreen.org/housing-recent-projects",
+        "matchAddress": "540 CEDARVALE AVE",
+        "image": "https://www.woodgreen.org/wp-content/uploads/2023/04/Blog-banners-1425-%C3%97-392-px-3.png",
+        "rsn": null,
+        "cityAddress": null,
+        "units": null,
+        "storeys": null,
+        "management": null,
+        "ward": null,
+        "score": null,
+        "proactive": null,
+        "reactive": null,
+        "evaluated": null,
+        "lat": null,
+        "lng": null,
+        "history": [],
+        "categories": [],
+        "orders": null
+      },
+      {
+        "id": "bathurst-confidential",
+        "address": "Address withheld",
+        "name": "Bathurst Street program",
+        "service": "Supportive housing",
+        "providerUnits": 18,
+        "source": "https://www.woodgreen.org/services/supportive-housing",
+        "scopeNote": "WoodGreen designates the location confidential. Excluded from address matching and monitoring totals.",
+        "rsn": null,
+        "cityAddress": null,
+        "units": null,
+        "storeys": null,
+        "management": null,
+        "ward": null,
+        "score": null,
+        "proactive": null,
+        "reactive": null,
+        "evaluated": null,
+        "lat": null,
+        "lng": null,
+        "history": [],
+        "categories": [],
+        "orders": null
+      },
+      {
+        "id": "mutual-confidential",
+        "address": "Address withheld",
+        "name": "Mutual Street program",
+        "service": "Supportive housing",
+        "providerUnits": 20,
+        "source": "https://www.woodgreen.org/services/supportive-housing",
+        "scopeNote": "WoodGreen designates the location confidential. Excluded from address matching and monitoring totals.",
+        "rsn": null,
+        "cityAddress": null,
+        "units": null,
+        "storeys": null,
+        "management": null,
+        "ward": null,
+        "score": null,
+        "proactive": null,
+        "reactive": null,
+        "evaluated": null,
+        "lat": null,
+        "lng": null,
+        "history": [],
+        "categories": [],
+        "orders": null
+      },
+      {
+        "id": "lewis-confidential",
+        "address": "Address withheld",
+        "name": "Lewis Street program",
+        "service": "Supportive housing",
+        "providerUnits": 15,
+        "source": "https://www.woodgreen.org/services/supportive-housing",
+        "scopeNote": "WoodGreen designates the location confidential. Excluded from address matching and monitoring totals.",
+        "rsn": null,
+        "cityAddress": null,
+        "units": null,
+        "storeys": null,
+        "management": null,
+        "ward": null,
+        "score": null,
+        "proactive": null,
+        "reactive": null,
+        "evaluated": null,
+        "lat": null,
+        "lng": null,
+        "history": [],
+        "categories": [],
+        "orders": null
+      },
+      {
+        "id": "coxwell-confidential",
+        "address": "Address withheld",
+        "name": "Coxwell Avenue program",
+        "service": "Supportive housing",
+        "providerUnits": 13,
+        "source": "https://www.woodgreen.org/services/supportive-housing",
+        "scopeNote": "WoodGreen designates the location confidential. Excluded from address matching and monitoring totals.",
+        "rsn": null,
+        "cityAddress": null,
+        "units": null,
+        "storeys": null,
+        "management": null,
+        "ward": null,
+        "score": null,
+        "proactive": null,
+        "reactive": null,
+        "evaluated": null,
+        "lat": null,
+        "lng": null,
+        "history": [],
+        "categories": [],
+        "orders": null
+      },
+      {
+        "id": "queen-confidential",
+        "address": "Address withheld",
+        "name": "Queen Street East program",
+        "service": "Supportive housing",
+        "providerUnits": 36,
+        "source": "https://www.woodgreen.org/services/supportive-housing",
+        "scopeNote": "WoodGreen designates the location confidential. Excluded from address matching and monitoring totals.",
+        "rsn": null,
+        "cityAddress": null,
+        "units": null,
+        "storeys": null,
+        "management": null,
+        "ward": null,
+        "score": null,
+        "proactive": null,
+        "reactive": null,
+        "evaluated": null,
+        "lat": null,
+        "lng": null,
+        "history": [],
+        "categories": [],
+        "orders": null
+      }
+    ],
+    "sourceStatus": "verified"
+  },
+  "changes": [],
+  "lastAttempt": "2026-09-08T05:11:19.650Z",
+  "warning": null
+}
