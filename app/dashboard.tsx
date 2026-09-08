@@ -1,6 +1,6 @@
 'use client';
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import Image from 'next/image';
+/* oxlint-disable nextjs/no-img-element -- Keep source-owned photos at their original URLs without an image proxy. */
 import {
   Activity,
   ArrowDownToLine,
@@ -784,10 +784,9 @@ export default function Dashboard({ initial }: { initial: Snapshot }) {
                           onClick={() => select(b)}
                           key={b.id}
                         >
-                          <Image
+                          <img
                             width={1425}
                             height={392}
-                            unoptimized
                             src={b.image}
                             alt={'Exterior of ' + b.address}
                             loading="lazy"
@@ -1205,10 +1204,9 @@ export default function Dashboard({ initial }: { initial: Snapshot }) {
                 </SheetHeader>
                 {selected.image && (
                   <figure className="detail-image">
-                    <Image
+                    <img
                       width={1425}
                       height={392}
-                      unoptimized
                       src={selected.image}
                       alt={'Exterior of ' + selected.address}
                     />
