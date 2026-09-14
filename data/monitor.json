@@ -1,6 +1,6 @@
 {
   "snapshot": {
-    "checkedAt": "2026-09-14T12:58:18.485Z",
+    "checkedAt": "2026-09-14T21:53:15.179Z",
     "sourceUpdatedAt": "2026-09-14T11:32:24.618Z",
     "buildings": [
       {
@@ -2880,6 +2880,6 @@
     "sourceStatus": "verified"
   },
   "changes": [],
-  "lastAttempt": "2026-09-14T12:58:16.897Z",
+  "lastAttempt": "2026-09-14T21:53:14.251Z",
   "warning": null
 }
