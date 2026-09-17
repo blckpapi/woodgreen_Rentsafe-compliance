@@ -1,7 +1,7 @@
 {
   "snapshot": {
-    "checkedAt": "2026-09-17T04:58:41.636Z",
-    "sourceUpdatedAt": "2026-09-16T11:32:28.493Z",
+    "checkedAt": "2026-09-17T11:49:37.772Z",
+    "sourceUpdatedAt": "2026-09-17T11:32:26.017Z",
     "buildings": [
       {
         "id": "logan",
@@ -228,6 +228,14 @@
             "opened": "2026-04-27",
             "deficiencies": 1,
             "primary": true
+          },
+          {
+            "id": "26 238863 WST 00 IV",
+            "type": "Notice To Comply",
+            "bylaw": "Waste",
+            "opened": "2026-09-16",
+            "deficiencies": 1,
+            "primary": false
           }
         ]
       },
@@ -2879,7 +2887,16 @@
     ],
     "sourceStatus": "verified"
   },
-  "changes": [],
-  "lastAttempt": "2026-09-17T04:58:39.187Z",
+  "changes": [
+    {
+      "buildingId": "logan",
+      "kind": "order-added",
+      "message": "26 238863 WST 00 IV: newly listed Waste Notice To Comply.",
+      "observedAt": "2026-09-17T11:49:37.772Z",
+      "id": "2026-09-17T11:49:37.772Z|logan|order-added|26 238863 WST 00 IV: newly listed Waste Notice To Comply.",
+      "reviewed": 0
+    }
+  ],
+  "lastAttempt": "2026-09-17T11:49:36.257Z",
   "warning": null
 }
