@@ -1,7 +1,7 @@
 {
   "snapshot": {
-    "checkedAt": "2026-09-18T11:24:45.508Z",
-    "sourceUpdatedAt": "2026-09-17T11:32:26.017Z",
+    "checkedAt": "2026-09-18T16:30:28.278Z",
+    "sourceUpdatedAt": "2026-09-18T11:32:25.577Z",
     "buildings": [
       {
         "id": "logan",
@@ -2937,6 +2937,6 @@
       "reviewed": 0
     }
   ],
-  "lastAttempt": "2026-09-18T11:24:43.527Z",
+  "lastAttempt": "2026-09-18T16:30:27.199Z",
   "warning": null
 }
